@@ -143,8 +143,8 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
+    background: white;
+    color: #1f2937;
     padding: 120px 40px;
     min-height: 100vh;
     display: flex;
@@ -161,12 +161,13 @@ body {
     font-weight: 700;
     margin-bottom: 20px;
     line-height: 1.2;
+    color: #1f2937;
 }
 
 .hero p {
     font-size: 18px;
     margin-bottom: 40px;
-    opacity: 0.9;
+    color: #6b7280;
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
@@ -183,7 +184,7 @@ body {
 .trusted-customers {
     padding: 60px 40px;
     text-align: center;
-    background: #f9fafb;
+    background: white;
 }
 
 .section-label {
@@ -204,7 +205,7 @@ body {
 /* Features Section */
 .features {
     padding: 80px 40px;
-    background: #f9fafb;
+    background: white;
 }
 
 .features h2 {
@@ -303,7 +304,7 @@ body {
 /* Steps Section */
 .steps {
     padding: 80px 40px;
-    background: #f9fafb;
+    background: white;
 }
 
 .steps h2 {
@@ -404,7 +405,7 @@ body {
 /* Pricing Section */
 .pricing {
     padding: 80px 40px;
-    background: #f9fafb;
+    background: white;
 }
 
 .pricing h2 {
@@ -608,7 +609,7 @@ body {
 
 /* Footer */
 .footer {
-    background: #f9fafb;
+    background: white;
     padding: 60px 40px 30px;
     border-top: 1px solid #e5e7eb;
 }
